@@ -26,7 +26,7 @@
 
 <p>
 🗓️ <a href="https://resvora.com"><strong>Resvora</strong></a>: SaaS platform for professionals to manage appointments, clients, and schedules.<br>
-🌐 <a href="https://misitioya.com.uy"><strong>Misitioya</strong></a>: Web development service for small businesses.
+🌐 <a href="https://misitioya.com.uy"><strong>Misitioya</strong></a>: Web development service for Uruguay business.
 </p>
 
 ###
