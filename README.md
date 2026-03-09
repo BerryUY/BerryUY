@@ -24,7 +24,10 @@
 
 ###
 
-<p align="left">🗓️ [Resvora](https://resvora.com): SaaS platform for professionals to manage appointments, clients, and schedules.<br>🌐 [Misitioya](https://misitioya.com.uy): Web development service focused on creating fast and modern websites for small businesses.</p>
+<p>
+🗓️ <a href="https://resvora.com"><strong>Resvora</strong></a> — SaaS platform for professionals to manage appointments, clients, and schedules.<br>
+🌐 <a href="https://misitioya.com.uy"><strong>Misitioya</strong></a> — Web development service for small businesses.
+</p>
 
 ###
 
