@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Web developer from Uruguay 💻</h4>
+<h4 align="left">💻 Web developer from Uruguay</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 <p>
 🗓️ <a href="https://resvora.com"><strong>Resvora</strong></a>: SaaS platform for professionals to manage appointments, clients, and schedules.<br>
-🌐 <a href="https://misitioya.com.uy"><strong>Misitioya</strong></a>: Web development service for Uruguay business.
+🌐 <a href="https://misitioya.com.uy"><strong>Misitioya</strong></a>: Web development service for uruguayan businesses.
 </p>
 
 ###
